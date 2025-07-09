@@ -11,7 +11,7 @@
     {
       id: 1,
       name: 'Rockefellers Hall',
-      image: '../../public/image1.png',
+      image: '/image1.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
@@ -19,7 +19,7 @@
     {
       id: 2,
       name: 'Grace Hall',
-      image: '../../public/image2.png',
+      image: '/image2.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
@@ -27,7 +27,7 @@
     {
       id: 3,
       name: 'Montblanc Hall',
-      image: '../../public/image3.png',
+      image: '/image3.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
@@ -37,7 +37,7 @@
     {
       id: 4,
       name: 'Rockefellers Hall',
-      image: '../../public/image1.png',
+      image: '/image1.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
@@ -45,7 +45,7 @@
     {
       id: 5,
       name: 'Grace Hall',
-      image: '../../public/image2.png',
+      image: '/image2.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
@@ -53,7 +53,7 @@
     {
       id: 6,
       name: 'Montblanc Hall',
-      image: '../../public/image4.png',
+      image: '/image4.png',
       area: 800,
       capacity: [200, 400],
       location: 'м.Павелецкая',
