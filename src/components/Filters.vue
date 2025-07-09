@@ -1,5 +1,5 @@
 <template>
-  <div class="w-2/3 flex flex-col justify-start items-start px-10 mb-10">
+  <div class="w-2/3 flex flex-col justify-start items-start px-10 mb-10 mt-30">
     <h2 class="text-2xl mb-2">Залы в Москве</h2>
     <section class="container">
       <ul class="flex gap-x-1 mb-2">
