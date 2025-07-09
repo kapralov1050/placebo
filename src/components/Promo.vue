@@ -1,7 +1,7 @@
 <template>
   <section
     class="w-full h-screen flex flex-col justify-center items-center
-      bg:overflow-hidden bg-bottom bg-cover bg-no-repeat
+      bg:overflow-hidden bg-right bg-cover bg-no-repeat
       bg-[url(./assets/Promo.png)] bg-black after:content after:w-full
       after:h-70 after:absolute after:top-165 after:bg-linear-to-t
       after:from-black after:from-60% after:to-transparent after:to-100%"
